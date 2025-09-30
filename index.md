@@ -15,15 +15,15 @@ The main objective of my career right now is to become a leading security engine
 * [Contact Information](./contact.md)
 
 ##### Senior Design Project
-* [Secure Wireless Aircraft Data Load](./)
+* [Secure Wireless Aircraft Data Load](./SWADL.md)
 
 ##### Other Projects
-* [CyFinder App](./)
-* [First Responder Robot](./)
-* [Cyber Defense Competition](./)
+* [CyFinder App](./CyFinder.md)
+* [First Responder Robot](./FirstResponder.md)
+* [Cyber Defense Competition](./CDC.md)
 
 ##### Work Experience
-* [HNI Corporation](./)
+* [HNI Corporation](./HNI.md)
 
 ##### Refelctions and Ethics Paper
 * [General Education Reflection](./)
