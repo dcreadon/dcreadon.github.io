@@ -14,6 +14,7 @@ The main objective of my career right now is to become a leading security engine
 * [Contact Information](./contact.md)
 
 ##### Senior Design Project
+* [Secure Wireless Aircraft Data Load](./)
 
 ##### Other Projects
 * [CyFinder App](./)
@@ -21,5 +22,9 @@ The main objective of my career right now is to become a leading security engine
 * [Cyber Defense Competition](./)
 
 ##### Work Experience
+* [HNI Corporation](./)
 
 ##### Refelctions and Ethics Paper
+* [General Education Reflection](./)
+* [Cumulative Reflection](./)
+* [Cybersecurity Ethics Paper](./)
