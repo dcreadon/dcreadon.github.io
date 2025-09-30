@@ -27,5 +27,5 @@ The main objective of my career right now is to become a leading security engine
 
 ##### Refelctions and Ethics Paper
 * [General Education Reflection](./)
-* [Cumulative Reflection](./)
+* [Cumulative Reflection](./images/CumulativeReflection.pdf)
 * [Cybersecurity Ethics Paper](./images/EthicsPaper.pdf)
