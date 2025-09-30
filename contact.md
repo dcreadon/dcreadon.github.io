@@ -3,4 +3,5 @@ layout: default
 ---
 
 # Contact Information
-<img src="images/phone.>
+### Phone
+<img src="images/phone.png" alt="Phone Icon" width="20" style="vertical-align:middle;">
