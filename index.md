@@ -19,7 +19,7 @@ The main objective of my career right now is to become a leading security engine
 
 ##### Other Projects
 * [CyFinder App](./)
-* [MIPS Pipelined Processor](./)
+* [First Responder Robot](./)
 * [Cyber Defense Competition](./)
 
 ##### Work Experience
