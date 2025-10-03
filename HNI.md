@@ -4,7 +4,7 @@ layout: default
 
 # HNI Corporation
 
-![HNI Logo](hni.png)
+![HNI Logo](/images/hni.png)
 
 ---
 
