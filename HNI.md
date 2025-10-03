@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# HNI Corporation
-
 ![HNI Logo](/images/hni.png)
+
+# HNI Corporation
 
 ---
 
