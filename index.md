@@ -26,6 +26,6 @@ The main objective of my career right now is to become a leading security engine
 * [HNI Corporation](./HNI.md)
 
 ##### Refelctions and Ethics Paper
-* [General Education Reflection](./)
+* [General Education Reflection](./images/GenEdReflection.pdf)
 * [Cumulative Reflection](./images/CumulativeReflection.pdf)
 * [Cybersecurity Ethics Paper](./images/EthicsPaper.pdf)
