@@ -11,13 +11,13 @@ For this project, I was tasked with building a simulated first responder drone i
 
 ## 🛠️ My Role
 For this project, within my team, I was not necessarily assigned to a specific role but rather did a little bit of everything to help complete the project. 
-* **💻 Base Functionality:** To start, I worked on the base functionality of the drone in C. I would write many functions and tests to ensure that the code was working as expected.
-* **📡 Sensor Integration:** Additionally, I worked with the IR sensors extensively. I was tasked with making sure the sensor data was properly integrated into the code.
-* **🎨 GUI Development:** Lastly, I helped build the GUI that would control the robot. Overall, I had many roles within this team and helped anywhere I could. 
+* **Base Functionality:** To start, I worked on the base functionality of the drone in C. I would write many functions and tests to ensure that the code was working as expected.
+* **Sensor Integration:** Additionally, I worked with the IR sensors extensively. I was tasked with making sure the sensor data was properly integrated into the code.
+* **GUI Development:** Lastly, I helped build the GUI that would control the robot. Overall, I had many roles within this team and helped anywhere I could. 
 
 ## 🧠 Skills or Knowledge Gained
-* **🇨 C Language**: Throughout the course of this project, I coded extensively in the C language. I was able to learn about the structure of C and how it operates compared to other languages like Python.
-* **🐍 Python**: When working on the GUI of this drone, I was able to gain valuable experience in the Python programming language.
-* **📶 IR Sensors**: Worked on calibrating the IR Sensor and gained extensive knowledge in how to integrate sensors into C code.
+* **C Language**: Throughout the course of this project, I coded extensively in the C language. I was able to learn about the structure of C and how it operates compared to other languages like Python.
+* **Python**: When working on the GUI of this drone, I was able to gain valuable experience in the Python programming language.
+* **IR Sensors**: Worked on calibrating the IR Sensor and gained extensive knowledge in how to integrate sensors into C code.
 
 [<<Back](./)

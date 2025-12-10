@@ -33,5 +33,5 @@ I aim to strengthen my learning in key technical areas including:
 * [Cumulative Reflection](./images/CumulativeReflection.pdf)
 * [Cybersecurity Ethics Paper](./images/EthicsPaper.pdf)
 
-### Connect
+### 🔗 Connect
 * [Contact Information](./contact.md)

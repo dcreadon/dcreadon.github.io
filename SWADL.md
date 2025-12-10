@@ -55,7 +55,7 @@ Throughout the development of the project thus far, I have gained technical skil
 * **Raspberry Pi Devices:** Developed skills on how to configure and use Raspberry Pi's. I also learned how to SSH into a Raspberry Pi. From there, I learned how to create an RDP session so the Pi desktop can be seen. Lastly, I learned how to conenct Raspberry Pi devices to a network so secure communication can occur. 
 * **Linux Systems:** Configured and managed multiple Linux-based devices (Raspberry Pi's and Ubuntu Desktop). Configuration on these devices taught essential commands that should be known when creating a linux based system from scratch.
 
-## Big Picture Contribution
+## 🌍 Big Picture Contribution
 This project serves as a possible alternative in avionic data transfer. By showing that secure wireless data loading is feasible, our prototype hopes to demonstrate that airlines can significantly reduce aircraft weight (by removing cabling and wired devices) and improve ground operation turnaround times, all while maintaining the strict safety and security standards required by the aviation industry.
 
 **Website:** If you would like further detail on the project, refer to our team website located here: [SDMay26-36 Website](https://sdmay26-36.sd.ece.iastate.edu/).
