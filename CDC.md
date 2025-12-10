@@ -2,19 +2,23 @@
 layout: default
 ---
 
-# Cyber Defense Competition (Hosted by Iowa State)
+# 🛡️ Cyber Defense Competition (Hosted by Iowa State)
 
+## 📝 Project Description
+For this competition, I was on the defensive (Blue Team) side and my team was tasked with securing various servers against an impending team of hackers known as the Red Team. The attackers attempted to gain access to our resources, steal flags, and disrupt services throughout the duration of the competition.
 
+A critical component of this competition was writing Intrusion Reports. These reports required us to outline exactly how an attacker gained access to the system and document their post-exploitation activities. Additionally, we solved riddles and technical challenges (called "Anomalies") to gain extra points. This competition provided high-pressure, real-world experience in security operations and significantly propelled my understanding of defensive concepts.
 
-## Project Description
-For this competition, me and my team were tasked with securing various boxes from an impending team of attackers otherwise known as the "blue team". These atttackers labeled the "red team" attempted to gain access to our resource thorughout the duration of the compeition. Another component of this compeition is to write intrusion reports. These intrusion reports would outline how someone was able to gain access to your system, and additionally what they did after they get in. The final part of this competition was to answer riddles and challenges throughout the duration to gain extra points for the team. The team with the most points in the end wins the competition. This compeition gives great real-world experience into the operations of cybersecurity and has propelled my understanding of concepts.
+## 🛠️ My Role
+My primary focus during the competition was **Incident Response and Forensics**.
 
-## My Role
-For this competition my roles were simple. My first and main role was to sift through the logs of a box once the flag inside of it was taken. This was necessary to get timestamps ofw when an intrusion happened and what they did after. Once I found the log specifying the attack, I would screenshot it and then make a write up in the intrusion report. My second role was to solve the riddles and challenges called anamolies throughout the duration of the competition. These varied in difficulty and what they covered, so research was necessary to complete these. Overall, I helped as much as I could throughout the competition and just tried to be a beneficial teammate.
+* **Log Analysis:** My main responsibility was to sift through system logs immediately after a flag was stolen. I identified the timestamps of the intrusion and traced the attacker's activity.
+* **Reporting:** Once the attack vector was identified, I captured evidence (screenshots/logs) and authored the official Intrusion Report to recover points.
+* **Anomalies:** I also worked on solving technical challenges, which required researching specific vulnerabilities and encryption methods to earn bonus points for the team.
 
-## Skills or Knowledge Gained
-- ***Ubuntu***: Throughout the compeitiion we additionally had Ubunut/Linux boxes to protect. Once one of these were attacked, I would go in and immediately start looking through the logs and other directories to find suspicious activity. This helped me gain practical experience with the Ubuntu cli.
-- ***Event Viewer***: In windows to view logs, event viewer is used. Throughout this competition I was working closely with this service and learned where key logs are kept in windows systems and how to read windows logs.
-- ***RDP***: Worked extensively with RDP protocol and port forwarding to ensure proper connections could be made.
+## 🧠 Skills or Knowledge Gained
+* **🐧 Ubuntu/Linux Forensics**: I gained practical experience using the Linux CLI to analyze system logs (e.g., `auth.log`, `syslog`) to identify suspicious connections and file modifications during active attacks.
+* **🪟 Windows Event Viewer**: I learned to navigate the Windows Event Viewer efficiently to locate specific Event IDs related to login failures, privilege escalation, and service manipulation.
+* **🔌 RDP & Networking**: Worked extensively with the Remote Desktop Protocol (RDP) and port forwarding configurations to ensure legitimate administrative access was maintained while blocking malicious traffic.
 
 [<<Back](./)

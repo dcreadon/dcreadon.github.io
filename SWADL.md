@@ -1,7 +1,11 @@
+---
+layout: default
+---
+
 # Secure Wireless Aircraft Data Load
 
 ![System Design](./SWADLArchitecture.png)
-This is a high-level network architecture schematic of our deisgn separating the Aircraft Information Service Domain (AISD) and Passenger Information and Entertainment Services Domain (PIESD).
+This is a high-level network architecture schematic of our design separating the Aircraft Information Service Domain (AISD) and Passenger Information and Entertainment Services Domain (PIESD).
 
 
 
@@ -28,7 +32,7 @@ To mirror the constraints of an aircraft environment, we developed a design that
 
 ### Hardware Implementation
 * **Dataloader (Raspberry Pi 5):** Simulated using a Raspberry Pi. Acts as the source of critical updates.
-* **Target System (Rasperry Pi 5):** Simulated using a Raspberry Pi. Represents the IFE (In-Flight Entertainment) system receiving the data.
+* **Target System (Raspberry Pi 5):** Simulated using a Raspberry Pi. Represents the IFE (In-Flight Entertainment) system receiving the data.
 * **Network Core (Access Point):** A Cisco 140ac Wireless Access Point serves as the bridge between domains.
 * **Authentication Authority (RADIUS Server):** A physical Ubuntu Desktop hosting a RADIUS server handles certificate validation.
 
@@ -38,7 +42,7 @@ As per our client, EAP-TLS (Extensible Authentication Protocol – Transport Lay
 * **Isolated Network:** This configuration ensures an isolated environment for the devices to securely communicate on.
 
 ## 📜 Standards & Compliance
-The system was designed around wiress avionic standards that are currently in place:
+The system was designed around wirless avionic standards that are currently in place:
 
 * **ARINC 615A:** Defined the transmission protocol for data loading over Ethernet/IP networks. 
 * **ARINC 665:** Standardized the structure and file formats of Loadable Software Parts (LSP) to ensure correct installation of devices.
@@ -54,6 +58,6 @@ Throughout the development of the project thus far, I have gained technical skil
 ## Big Picture Contribution
 This project serves as a possible alternative in avionic data transfer. By showing that secure wireless data loading is feasible, our prototype hopes to demonstrate that airlines can significantly reduce aircraft weight (by removing cabling and wired devices) and improve ground operation turnaround times, all while maintaining the strict safety and security standards required by the aviation industry.
 
-**Website:** If you would like futher detail on the project, refer to our team website located here: [SDMay26-36 Website](https://sdmay26-36.sd.ece.iastate.edu/).
+**Website:** If you would like further detail on the project, refer to our team website located here: [SDMay26-36 Website](https://sdmay26-36.sd.ece.iastate.edu/).
 
 [<<Back](./)

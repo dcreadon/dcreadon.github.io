@@ -8,7 +8,7 @@ layout: default
 
 ---
 
-### Internship Overview
+### 🏢 Internship Overview
 
 **Position:** Cybersecurity Intern  
 **Location:** Muscatine, Iowa  
@@ -16,62 +16,66 @@ layout: default
 
 ---
 
-### Duties
+### 📋 Duties
 
-  - Filtered through the TRAP (Threat Response Auto Pull) inbox to manually review emails that that pose a phishing threat.
-  - Also filtered through the DLP (Data Loss Preventio) inbox to ensure that no credit card or SSN numbers were sent in an email.
-  - Participated in daily talks within the cybersecurity team to give updates and assess progress.
-  - Participated in remediation simulations i.e. what would happen if the network became down.
-  - Wiped and decommissioned old CISC-ASA 5512-X firewalls.
+  * Filtered through the TRAP (Threat Response Auto Pull) inbox to manually review emails that that pose a phishing threat.
+  * Also filtered through the DLP (Data Loss Prevention) inbox to ensure that no credit card or SSN numbers were sent in an email.
+  * Participated in daily talks within the cybersecurity team to give updates and assess progress.
+  * Participated in remediation simulations i.e. what would happen if the network became down.
+  * Wiped and decommissioned old CISCO-ASA 5512-X firewalls.
 
 ---
 
-### Project
+### 🚀 Project
 
-- Trusted Indicator Puller
-  - The main project I worked on over the summer dealt with gathering trusted IPs and pushing them to the firewalls.
-  - The first step of the project was to make HTTP requests to differnt URLs hosting trusted CIDR ranges.
-  - This step was implemented completely in python and could run straight from vs code.
-  - The second step of the project, was to make a feed integration within Cortex XSIAM.
-  - This feed integration was able to take the list of these IP addresses and publish them onto an External Dynamic List.
-  - This external dynamic list was hosted on a URL that the firewalls were able to reference.
-  - The third step was to create a function that was able to check the old list of IP addresses against the new incoming list.
-  - This allowed for visibility on seeing which IP addresses were removed or added from the list.
-  - The final step, was to configure the firewalls.
-  - To do this, I just had to input the external dynamic list URL into the firewall interface. 
-  - Once the firewall was configured, each component began working together to keep the firewall open for trusted IP addresses.
+* Trusted Indicator Puller
+**Objective:** The main project I worked on dealt with gathering trusted IP/CIDR addresses and automatically pushing them to all company firewalls.
 
-### Skills Learned
+* **Data Collection (Python):**
+    * The first step was to make HTTP requests to different URLs hosting trusted CIDR ranges.
+    * This was implemented completely in Python and designed to run efficiently from VS Code.
+* **Integration (Cortex XSIAM):**
+    * Created a feed integration within Cortex XSIAM to take the list of trusted IP addresses and publish them onto an **External Dynamic List (EDL)**.
+    * This EDL was hosted on a URL that the firewalls were able to reference dynamically.
+* **Change Detection:**
+    * Developed a function to compare the old list of IP addresses against the new incoming list.
+    * This provided visibility into which IP addresses were added or removed during each update cycle.
+* **Firewall Configuration:**
+    * Configured the firewalls by inputting the External Dynamic List URL into the firewall interface.
+* **Outcome:** 
+    * Once configured, the components worked together to automatically keep the firewall open for trusted IP addresses without manual intervention.
+
+### 🧠 Skills Learned
 
 **Technical Skills:**
-  - Cortex XSIAM
-  - ProofPoint TRAP and DLP
-  - Microsoft Teams and Outlook
-  - Python
-  - PuTTy, specifically CISCO ASA Interface
+* Cortex XSIAM
+* Proofpoint TRAP and DLP
+* Microsoft Teams and Outlook
+* Python Scripting (Requests, Data Parsing)
+* PuTTY / Cisco ASA Interface
 
 **Soft Skills:**
-  - Technical communication within a team environment
-  - Time management and prioritization of tasks
-  - Professional Communication within a workplace (Coffee Talks, Seminars, Executive Talks)
-  - Problem-solving and critical thinking
+* Technical communication within a team environment
+* Time management and prioritization of tasks
+* Professional communication (Coffee Talks, Seminars, Executive Talks)
+* Problem-solving and critical thinking
 
 ---
 
-### Evaluations
-  - Had a mid-term and final check-in where my manager believed I met/exceeded expectations.
-  - Had additional meetings with my HR representative about my performance and how I was doing.
-  - Was offered a return job.
+### 📈 Evaluations
+
+* Completed mid-term and final check-ins where my manager stated I met or exceeded expectations.
+* Participated in performance reviews with HR representatives.
+* **Outcome:** Was successfully offered a return offer.
 
 ---
 
-### Presentations
+### 🎤 Presentations
 
-  - Delivered a final presentation to the entire Information and Digital Technologies department on my project and other tasks.
-  - Shared the depth of my project and explained how it could be beneficial to the company for future employees.
-  - Shared other tasks that I performed on a daily basis along with some other challenging ones I was assigned.
-  - Emphasized how I was able to make an impact over the summer and a beneficial intern.
-  - Had the opportunity of receiving feedback on my presentation from executives and other employees. 
+* Delivered a final presentation to the entire Information and Digital Technologies department.
+* Shared the technical depth of the "Trusted Indicator Puller" project and explained its long-term benefits for future employees.
+* Highlighted daily operational tasks and specific challenges overcome during the internship.
+* Emphasized the impact of my work and received positive feedback from executives and senior employees.
 
 ---
 

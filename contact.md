@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Contact Information
-<img src="images/phone.png" alt="Phone Icon" width="20" style="vertical-align:middle;"> 
-* 815-757-6567
+# 📬 Contact Information
 
-<img src="images/email.png" alt="Email Icon" width="30" style="vertical-align:middle;">
-* ddcreadon@gmail.com
+* 📱 **Phone:** 815-757-6567
+* 📧 **Email:** [ddcreadon@gmail.com / dcreadon@iastate.edu]
 
-<img src="images/rome.jpg" alt="Rome Image" width="300" style="vertical-align:middle;">
+<br>
+
+<img src="images/rome.jpg" alt="Rome Image" width="300" style="border-radius: 10px;">
 
 [<<Back](./)
