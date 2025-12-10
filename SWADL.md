@@ -4,7 +4,7 @@ layout: default
 
 # Secure Wireless Aircraft Data Load
 
-![System Design](./SWADLArchitecture.png)
+![System Design](./images/SWADLArchitecture.png)
 This is a high-level network architecture schematic of our design separating the Aircraft Information Service Domain (AISD) and Passenger Information and Entertainment Services Domain (PIESD).
 
 
