@@ -16,3 +16,5 @@ For this competition my roles were simple. My first and main role was to sift th
 - ***Ubuntu***: Throughout the compeitiion we additionally had Ubunut/Linux boxes to protect. Once one of these were attacked, I would go in and immediately start looking through the logs and other directories to find suspicious activity. This helped me gain practical experience with the Ubuntu cli.
 - ***Event Viewer***: In windows to view logs, event viewer is used. Throughout this competition I was working closely with this service and learned where key logs are kept in windows systems and how to read windows logs.
 - ***RDP***: Worked extensively with RDP protocol and port forwarding to ensure proper connections could be made.
+
+[<<Back](./)
