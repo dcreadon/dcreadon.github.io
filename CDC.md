@@ -18,7 +18,7 @@ My primary focus during the competition was **Incident Response and Forensics**.
 
 ## 🧠 Skills or Knowledge Gained
 * **🐧 Ubuntu/Linux Forensics**: I gained practical experience using the Linux CLI to analyze system logs (e.g., `auth.log`, `syslog`) to identify suspicious connections and file modifications during active attacks.
-* **🪟 Windows Event Viewer**: I learned to navigate the Windows Event Viewer efficiently to locate specific Event IDs related to login failures, privilege escalation, and service manipulation.
-* **🔌 RDP & Networking**: Worked extensively with the Remote Desktop Protocol (RDP) and port forwarding configurations to ensure legitimate administrative access was maintained while blocking malicious traffic.
+* **Windows Event Viewer**: I learned to navigate the Windows Event Viewer efficiently to locate specific Event IDs related to login failures, privilege escalation, and service manipulation.
+* **RDP & Networking**: Worked extensively with the Remote Desktop Protocol (RDP) and port forwarding configurations to ensure legitimate administrative access was maintained while blocking malicious traffic.
 
 [<<Back](./)
